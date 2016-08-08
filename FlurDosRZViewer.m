@@ -7,7 +7,6 @@ function varargout = FlurDosRZViewer(varargin)
 % -------------------------------
 % FlurDosRZViewer.m
 % - Written by Leighton Warmington
-% - Based on work by Michael K.K. Leung, August 23, 2006
 % -------------------------------
 % To do...
 % - 
